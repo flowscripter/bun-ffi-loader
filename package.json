@@ -1,6 +1,6 @@
 {
   "name": "@flowscripter/bun-ffi-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Resolve, download and load native libraries via Bun FFI",
   "keywords": [
     "bun",
